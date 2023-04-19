@@ -1,3 +1,6 @@
+*script is provided as is, do not expect troubleshooting support. Use at your own risk.
+
+
 This script was created and tested on windows 7. 
 
 Optimized for windowed use at (mostly) any resolution. 
@@ -17,3 +20,6 @@ Features:
 - Alt+G		when farming bloodchests (catacombs in this case) - send "go" in group chat, then automatically open inventory, click on fast travel map, and port to catacombs. You must select bloodshed difficulty manually (can't be bothered adding that), and your map must be on the first inventory tab row 1 column 1.
 - Ctrl+R	reset script. Useful for emergency stops.
 - bottom of the script file has a short explanation on how to change or create your own commands and make them follow the adaptive interface
+
+
+requires AutoHotKey 1.1 to run
