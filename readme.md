@@ -10,7 +10,7 @@ Since the game uses adaptive interface, at certain window resolutions and aspect
 Features:
 - Ctrl+F	autofill password and login
 - Alt+S 	automatically grind gems and jewels from the current inventory tab. You need to have workbench unlocked in your wisdom skills
-- Z     	fast mount using cloak of the undefeatables. It must be placed in the first inventory tab second row third column. Read script file for more info.
+- Z     	fast mount using cloak of the undefeatables. It must be placed in the first inventory tab second row third column. Mount button must be assigned to "A" or you could change it to whatever you prefer. Read script file for more info.
 - Ctrl+S	chat spam. Don't overuse it. Go to the script file to change the phrase you want to repeat.
 - Ctrl+Z	Autofinish John Sunlair quest for Sargon ports. Once you have enough parts, click on the NPC and press hotkey. It will complete the quest once, then use hotkey again and so on.
 - Ctrl+`	fast switch between builds
